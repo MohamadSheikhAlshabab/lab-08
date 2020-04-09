@@ -1,49 +1,39 @@
 # lab-08
 
-Number and name of feature:1. Database
+Number and name of feature:1. Movies
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 3 p.m
 
-Finish time: _____
+Finish time: 5:30 p.m
 
-Actual time needed to complete: _____
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
-Number and name of feature: 2. Server
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 2.5 hours
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
-Number and name of feature: 3. Deploy
+Number and name of feature: 2. Yelp
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2.5 hours
 
-Start time: _____
+Start time: 6:30 p.m
 
-Finish time: _____
+Finish time: 9:30 p.m
 
-Actual time needed to complete: _____
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
-Number and name of feature: 4. STRETCH
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 3 hours
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+Number and name of feature: 3. Refactor
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 11 p.m
+
+Finish time: 2 p.m
+
+Actual time needed to complete: 3 hours
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 # Project Name
 
