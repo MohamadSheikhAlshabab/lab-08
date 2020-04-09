@@ -1,6 +1,9 @@
-DROP TABLE IF EXISTS mytable;
-CREATE TABLE mytable(
+DROP TABLE IF EXISTS locations;
+CREATE TABLE locations
+(
     id SERIAL PRIMARY KEY,
-    cityName VARCHAR(255),
-     cityLocation VARCHAR(255)
-)
+    search_query VARCHAR(255),
+    formatted_query VARCHAR(255),
+    latitude NUMERIC(10,7),
+    longitude NUMERIC(10,7)
+);
