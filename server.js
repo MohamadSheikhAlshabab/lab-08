@@ -52,7 +52,7 @@ app.get('/locations', (request, response) => {
 
 
 app.get('/movies', (request, response) => {
- 
+
     const SQL = 'SELECT * FROM locations ';
     client.query(SQL).then((results) => {
         response.status(200).json(results);
