@@ -93,7 +93,7 @@ function trailHandler(request, response) {
         // `https://www.hikingproject.com/data/get-trails?lat=${request.query.latitude}&lon=${request.query.longitude}&maxDistance=10&key=${TRAIL_API_KEY}`
       
      
-        // `https://www.hikingproject.com/data/get-trails?lat=${request.query.latitude}&lon=${request.query.longitude}&maxDistance=10&key=200721689-7e619a9e9f5056b3876932f9a719a82f`
+         `https://www.hikingproject.com/data/get-trails?lat=${request.query.latitude}&lon=${request.query.longitude}&maxDistance=10&key=200721689-7e619a9e9f5056b3876932f9a719a82f`
     ).then((trailRes) => {
             console.log(trailRes);
             const trailSummary = trailRes.body.data.map((trailData) => {
